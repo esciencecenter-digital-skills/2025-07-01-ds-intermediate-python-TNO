@@ -473,7 +473,7 @@ during the workshop.
 {% endif %}
 {% elsif info.carpentry == "pilot" %}
 Please check the "Setup" page of
-[the lesson site]({{ site.lesson_site }}) for instructions to follow
+[the lesson site](https://esciencecenter-digital-skills.github.io/python-intermediate-development-tno/installation-instructions.html) for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
 
